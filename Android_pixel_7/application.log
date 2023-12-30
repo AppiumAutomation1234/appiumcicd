@@ -1,0 +1,68 @@
+[Android_pixel_7 INFO ] 2023-12-30 11:40:18.409 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 11:40:26.454 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 11:40:26.485 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 11:40:26.519 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 11:40:26.540 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 11:40:26.552 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 11:40:40.122 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 11:40:48.779 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 11:41:29.854 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 11:41:35.833 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 11:41:35.861 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 11:41:35.885 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 11:41:35.887 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 11:41:35.896 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 11:41:45.698 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 11:41:54.832 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 11:44:41.434 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 11:44:47.429 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 11:44:47.444 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 11:44:47.466 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 11:44:47.467 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 11:44:47.472 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 11:44:54.782 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 11:45:01.523 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 11:50:21.679 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 11:50:27.361 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 11:50:27.386 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 11:50:27.415 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 11:50:27.417 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 11:50:27.425 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 11:50:42.517 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 11:50:50.912 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 11:55:43.633 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 11:55:49.266 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 11:55:49.282 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 11:55:49.317 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 11:55:49.320 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 11:55:49.333 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 11:56:01.818 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 11:57:03.309 BasePage:71 - login with Shaheena
+[Android_pixel_7 INFO ] 2023-12-30 11:57:09.252 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 12:11:34.284 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 12:11:40.405 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 12:11:40.433 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 12:11:40.457 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 12:11:40.458 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 12:11:40.469 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 12:11:55.151 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 12:12:55.006 BasePage:71 - login with Shaheena
+[Android_pixel_7 INFO ] 2023-12-30 12:13:00.402 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 12:19:13.925 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 12:19:19.594 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 12:19:19.610 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 12:19:19.633 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 12:19:19.635 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 12:19:19.642 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 12:19:29.832 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 12:20:28.204 BasePage:71 - login with Shaheena
+[Android_pixel_7 INFO ] 2023-12-30 12:20:33.076 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4
+[Android_pixel_7 INFO ] 2023-12-30 12:22:55.403 ServerManager:20 - starting appium server
+[Android_pixel_7 INFO ] 2023-12-30 12:23:01.146 ServerManager:29 - Appium server started
+[Android_pixel_7 INFO ] 2023-12-30 12:23:01.172 DriverManager:28 - initializing Appium driver
+[Android_pixel_7 INFO ] 2023-12-30 12:23:01.196 PropertyManager:17 - loading config properties
+[Android_pixel_7 INFO ] 2023-12-30 12:23:01.198 CapabilitiesManager:17 - getting capabilities
+[Android_pixel_7 INFO ] 2023-12-30 12:23:01.207 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_pixel_7 INFO ] 2023-12-30 12:23:09.810 DriverManager:40 - Driver is initialized
+[Android_pixel_7 INFO ] 2023-12-30 12:23:54.024 BasePage:71 - login with Shaheena
+[Android_pixel_7 INFO ] 2023-12-30 12:23:59.144 VideoManager:35 - video path: Android_pixel_7\Videos\General Store scenarios.MPEG-4

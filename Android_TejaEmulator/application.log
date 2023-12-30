@@ -1,0 +1,16 @@
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:40.240 ServerManager:20 - starting appium server
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:47.895 ServerManager:29 - Appium server started
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:47.937 DriverManager:28 - initializing Appium driver
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:47.968 PropertyManager:17 - loading config properties
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:47.970 CapabilitiesManager:17 - getting capabilities
+[Android_TejaEmulator INFO ] 2023-12-27 23:04:47.981 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:07.772 DriverManager:40 - Driver is initialized
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:15.736 VideoManager:35 - video path: Android_TejaEmulator\Videos\General Store scenarios.MPEG-4
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:53.493 ServerManager:20 - starting appium server
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:59.742 ServerManager:29 - Appium server started
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:59.772 DriverManager:28 - initializing Appium driver
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:59.806 PropertyManager:17 - loading config properties
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:59.809 CapabilitiesManager:17 - getting capabilities
+[Android_TejaEmulator INFO ] 2023-12-27 23:05:59.820 CapabilitiesManager:28 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources\apps\General-Store.apk
+[Android_TejaEmulator INFO ] 2023-12-27 23:06:11.702 DriverManager:40 - Driver is initialized
+[Android_TejaEmulator INFO ] 2023-12-27 23:06:19.782 VideoManager:35 - video path: Android_TejaEmulator\Videos\General Store scenarios.MPEG-4

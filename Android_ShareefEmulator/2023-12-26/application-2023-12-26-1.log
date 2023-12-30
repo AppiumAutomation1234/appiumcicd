@@ -1,0 +1,49 @@
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:51.482 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:58.249 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:58.275 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:58.297 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:58.318 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 22:23:58.326 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\General-Store.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 22:24:20.715 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:20.793 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:27.278 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:27.312 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:27.339 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:27.342 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:27.351 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\General-Store.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 22:25:36.342 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:50.140 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:56.525 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:56.552 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:56.581 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:56.583 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 22:27:56.592 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 22:28:13.356 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:29.195 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:36.421 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:36.447 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:36.471 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:36.474 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 22:40:36.490 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 22:41:02.662 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:15.800 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:22.441 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:22.469 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:22.496 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:22.498 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:22.510 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 22:45:47.738 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:51.947 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:59.306 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:59.333 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:59.362 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:59.365 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 23:11:59.377 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 23:12:23.768 DriverManager:40 - Driver is initialized
+[Android_ShareefEmulator INFO ] 2023-12-26 23:15:59.244 ServerManager:20 - starting appium server
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:06.558 ServerManager:29 - Appium server started
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:06.579 DriverManager:28 - initializing Appium driver
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:06.602 PropertyManager:17 - loading config properties
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:06.603 CapabilitiesManager:17 - getting capabilities
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:06.613 CapabilitiesManager:32 - appUrl isD:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_ShareefEmulator INFO ] 2023-12-26 23:16:29.501 DriverManager:40 - Driver is initialized

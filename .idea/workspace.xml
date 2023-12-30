@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="562cc84c-2fa6-477c-b0d9-bcec4afddb98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/CapabilitiesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/ServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/VideoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/GeneralStorePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/MenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/SettingsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyTestNGRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/RunnerBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/TejaTestNGRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/GeneralStoreStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/LoginStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/ProductStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/GeneralStore.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/apps/iOS.RealDevice.SauceLabs.Mobile.Sample.app.2.7.1.ipa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2a4uDhgNn8T4s8zYhw2THkkXnry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Shareef/Mobile_Automation_Omprakash Chavan/FirstAppiumProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shareef\Mobile Automation - BDD Framework\Working Folder\AppiumBDDTestNG\src\test\resources" />
+      <recent name="D:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\java\com\qa\runners" />
+      <recent name="D:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\java\com\qa\pages" />
+      <recent name="D:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\main\java\com\qa\utils" />
+      <recent name="D:\Shareef\Mobile Automation - BDD Framework\AppiumBDD\src\test\resources\app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.runners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Shareef/Mobile Automation - BDD Framework/Working Folder/AppiumBDDTestNG/src/test/resources/testng.xml">
+    <configuration name="MyRunnerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBDD - Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Shareef/Mobile Automation - BDD Framework/Working Folder/AppiumBDDTestNG/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBDDTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestNGRunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumBDDTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyTestNGRunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Shareef/Mobile Automation - BDD Framework/Working Folder/AppiumBDDTestNG/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.MyTestNGRunnerTest" />
+        <item itemvalue="JUnit.MyRunnerTest (1)" />
+        <item itemvalue="JUnit.MyRunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562cc84c-2fa6-477c-b0d9-bcec4afddb98" name="Changes" comment="" />
+      <created>1703590061876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703590061876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

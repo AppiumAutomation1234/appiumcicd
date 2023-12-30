@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+	<test name="Pixel7">
+		<parameter name="emulator" value="true" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="pixel_7" />
+		<parameter name="systemPort" value="10001" />
+		<parameter name="chromeDriverPort" value="11001" />
+		<classes>
+			<class name="com.qa.runners.MyTestNGRunnerTest"/>
+		</classes>
+	</test>
+<!--    <test name="Pixel4">-->
+<!--		<parameter name="platformName" value="Android" />-->
+<!--		<parameter name="udid" value="emulator-5556" />-->
+<!--		<parameter name="deviceName" value="TejaEmulator" />-->
+<!--		<parameter name="systemPort" value="10002" />-->
+<!--		<parameter name="chromeDriverPort" value="11002" />-->
+<!--		<classes>-->
+<!--			<class name="com.qa.runners.TejaTestNGRunnerTest"/>-->
+<!--		</classes>-->
+<!--	</test>-->
+</suite> <!-- Suite -->
