@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="562cc84c-2fa6-477c-b0d9-bcec4afddb98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/CapabilitiesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/ServerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/TestUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/VideoManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/GeneralStorePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/MenuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/ProductDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/ProductsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/SettingsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/MyTestNGRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/RunnerBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/runners/TejaTestNGRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/GeneralStoreStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/LoginStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/stepdef/ProductStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/GeneralStore.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Product.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/apps/iOS.RealDevice.SauceLabs.Mobile.Sample.app.2.7.1.ipa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/pages/GeneralStorePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/GeneralStorePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/GeneralStore.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/GeneralStore.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -37,6 +37,7 @@ public class GeneralStorePage extends BasePage{
         selectDropDownValueBasedOnText("//android.widget.TextView", countryName);
     }
     public void enterUserNameStore(String username) throws InterruptedException {
+        Thread.sleep(1000);
         clear(usernameTxtFld);
         sendKeys(usernameTxtFld, username, "login with " + username);
     }
